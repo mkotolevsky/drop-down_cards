@@ -1,4 +1,4 @@
 # drop-down_cards
-A simple project with a drop-down cards
+При нажатии на блок выпадает, открывается карточка. Предыдущая скрывается.
 
-[Open project](https://mkotolevsky.github.io/drop-down_cards/)
+[Открыть](https://mkotolevsky.github.io/drop-down_cards/)
